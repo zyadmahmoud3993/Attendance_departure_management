@@ -3,7 +3,11 @@
 Open source employee attendance management software
 
 Login_information()
+
 {
+
   UserName: zockchin
-  Password: zockcghin
+  
+  Password: zockcghin 
+  
 }
